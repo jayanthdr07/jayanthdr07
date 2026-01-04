@@ -78,9 +78,4 @@
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/jayanthdr07)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:jayanthgowda1406@gmail.com)
 
-
----
-## 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true)
 ---
