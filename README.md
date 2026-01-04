@@ -1,4 +1,22 @@
-## 👋 Hey, I'm Jayanth D R
+# 👋 Hi, I'm Jayanth D R
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+  font=Fira+Code&
+  size=22&
+  duration=3000&
+  pause=800&
+  color=00E5FF&
+  center=true&
+  vCenter=true&
+  width=700&
+  lines=Java+Backend+Engineer;
+  Spring+Boot+%7C+Microservices;
+  AWS+%7C+Docker+%7C+CI%2FCD;
+  AI-Enabled+Backend+Systems;
+  NLP+%7C+RAG+%7C+LLMs;
+  Building+Scalable+Cloud+APIs" />
+</p>
 
 💻 **Java Backend Engineer**  
 ☁️ Cloud & Microservices Enthusiast  
