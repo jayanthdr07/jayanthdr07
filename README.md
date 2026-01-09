@@ -64,14 +64,6 @@
 ![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge)
 
 ---
-## 🚀 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayanthdr07&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jayanthdr07&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayanthdr07&layout=compact&theme=tokyonight)
-
 ### Tools & Developer Environment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
@@ -86,3 +78,11 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:jayanthgowda1406@gmail.com)
 
 ---
+## 🚀 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayanthdr07&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jayanthdr07&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayanthdr07&layout=compact&theme=tokyonight)
+
