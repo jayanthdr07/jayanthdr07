@@ -84,6 +84,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jayanthdr07&theme=tokyonight)
 
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jayanthdr07&theme=github-dark)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayanthdr07&layout=compact&theme=tokyonight)
 
 
