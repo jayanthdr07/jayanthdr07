@@ -6,7 +6,6 @@
 💻 **Java Backend Developer**  
 ☁️ Cloud & Microservices Enthusiast  
 🤖 Exploring AI-powered backend systems  
-![Visitor Count](https://komarev.com/ghpvc/?username=jayanthdr07)
 
 ---
 
@@ -82,6 +81,8 @@
 ## 🚀 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayanthdr07&show_icons=true&theme=tokyonight)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=jayanthdr07)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jayanthdr07&theme=tokyonight)
 
