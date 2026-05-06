@@ -6,6 +6,7 @@
 💻 **Java Backend Developer**  
 ☁️ Cloud & Microservices Enthusiast  
 🤖 Exploring AI-powered backend systems  
+![Visitor Count](https://komarev.com/ghpvc/?username=jayanthdr07)
 
 ---
 
