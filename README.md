@@ -13,7 +13,8 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=A855F7&center=true&vCenter=true&width=850&lines=⚡+Building+the+future,+one+code+at+a+time;🚀+Java+Full+Stack+Developer;🤖+AI%2FML+Explorer;❤️+Building+CardioSense.AI" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=A855F7&center=true&vCenter=true&width=850&lines=⚡+Building+the+future,+one+code+at+a+time;🚀+Java+Full+Stack+Developer;🤖+AI%2FML+Explorer;Building+Scalable+Spring+Boot+Applications;Microservices+%7C+Cloud+%7C+Distributed+Systems;Exploring+RAG%2C+LLMs%2C+and+AI-backed+APIs" />
+
 
 <br><br>
 
