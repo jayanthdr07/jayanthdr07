@@ -23,7 +23,7 @@
 <a href="https://github.com/jayanthdr07" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="#" target="_blank">
+<a href="https://jayanthgowda-protfolio.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="#" target="_blank">
