@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=52&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=900&height=110&lines=Jayanth+D+R" alt="Typing intro banner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=52&duration=2800&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&height=110&lines=Jayanth+D+R" alt="Typing intro banner" />
 
 <br/>
 
