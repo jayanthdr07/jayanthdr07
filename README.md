@@ -11,7 +11,6 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2600&pause=800&color=A855F7&center=true&vCenter=true&width=1000&lines=⚡+Building+scalable+backend+systems;🚀+Spring+Boot+%7C+Microservices+%7C+Cloud;🤖+Exploring+AI%2FML%2C+RAG%2C+and+LLMs;💡+Turning+ideas+into+real-world+products" alt="Typing roles banner" />
 
 </div>
 
@@ -38,7 +37,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,react,vector,mysql,firebase,docker,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,python,react,mysql,firebase,docker,git,github,vscode&theme=dark" />
 
 </div>
 
