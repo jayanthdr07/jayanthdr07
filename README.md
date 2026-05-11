@@ -6,10 +6,11 @@
 ========================================= -->
 
 <div align="center">
+<div align="center">
 
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=55&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=100&lines=Jayanth+D+R;Full+Stack+Java+Developer;AI%2FML+Enthusiast" />
-</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=60&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=100&lines=Jayanth+D+R" />
+
+</div>
 # Full-Stack Java Developer | AI/ML Enthusiast | CSE Student
 
 <br>
