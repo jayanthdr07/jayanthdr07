@@ -26,9 +26,8 @@
 <a href="https://jayanthgowda-protfolio.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-00C2FF?style=for-the-badge&logo=readthedocs&logoColor=white" />
-</a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jayanthgowda14)
 <a href="#" target="_blank">
   <img src="https://img.shields.io/badge/Karnataka-India-16A34A?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </a>
