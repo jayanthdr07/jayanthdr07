@@ -6,42 +6,41 @@
 ========================================= -->
 
 <div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=52&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=110&lines=Jayanth+D+R;Full-Stack+Java+Developer" alt="Typing intro banner" />
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2600&pause=800&color=A855F7&center=true&vCenter=true&width=1000&lines=⚡+Building+scalable+backend+systems;🚀+Spring+Boot+%7C+Microservices+%7C+Cloud;🤖+Exploring+AI%2FML%2C+RAG%2C+and+LLMs;💡+Turning+ideas+into+real-world+products" alt="Typing roles banner" />
+
+</div>
+
+---
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=60&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=100&lines=Jayanth+D+R" />
-
-</div>
-# Full-Stack Java Developer | AI/ML Enthusiast | CSE Student
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=A855F7&center=true&vCenter=true&width=850&lines=⚡+Building+the+future,+one+code+at+a+time;🚀+Java+Full+Stack+Developer;🤖+AI%2FML+Explorer;Building+Scalable+Spring+Boot+Applications;Microservices+%7C+Cloud+%7C+Distributed+Systems;Exploring+RAG%2C+LLMs%2C+and+AI-backed+APIs" />
-
-
-<br><br>
-
-<a href="https://github.com/jayanthdr07">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/jayanthdr07" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/PORTFOLIO-8A2BE2?style=for-the-badge&logo=firefox&logoColor=white"/>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/RESUME-00BFFF?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-00C2FF?style=for-the-badge&logo=readthedocs&logoColor=white" />
 </a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/BASED%20IN-KARNATAKA,%20INDIA-32CD32?style=for-the-badge"/>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Karnataka-India-16A34A?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </a>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=java,python,react,spring,mysql,nodejs,mongodb,git,github,vscode"/>
 
 </div>
 
+<br/>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,react,nodejs,mysql,mongodb,git,github,vscode&theme=dark" />
+
+</div>
 
 ---
 
