@@ -1,4 +1,62 @@
 # 👋 Hi, I'm Jayanth D R
+
+<!-- =========================================
+   CYBERPUNK GITHUB PROFILE README
+   JAYANTH D R
+========================================= -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:8A2BE2&height=250&section=header&text=Jayanth%20D%20R&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+# Full-Stack Java Developer | AI/ML Enthusiast | CSE Student
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=A855F7&center=true&vCenter=true&width=850&lines=⚡+Building+the+future,+one+code+at+a+time;🚀+Java+Full+Stack+Developer;🤖+AI%2FML+Explorer;❤️+Building+CardioSense.AI" />
+
+<br><br>
+
+<a href="https://github.com/jayanthdr07">
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/PORTFOLIO-8A2BE2?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/RESUME-00BFFF?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/BASED%20IN-KARNATAKA,%20INDIA-32CD32?style=for-the-badge"/>
+</a>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=java,python,react,spring,mysql,nodejs,mongodb,git,github,vscode"/>
+
+</div>
+
+---
+
+# ⚡ About Me
+
+```yaml
+Name: Jayanth D R
+Role: Full Stack Java Developer
+Education: Computer Science Engineering
+Location: Karnataka, India
+
+Current Focus:
+  - AI/ML
+  - Spring Boot
+  - React
+  - System Design
+
+Current Project:
+  - CardioSense.AI
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3200&pause=800&color=06B6D4&center=true&vCenter=true&width=800&lines=JAVA+BACKEND+ENGINEER;SPRING+BOOT+%26+MICROSERVICES;CLOUD+AWS+%7C+DOCKER+%7C+CI%2FCD;AI-ENABLED+APIs+%26+RAG+SYSTEMS;BUILDING+SCALABLE+SYSTEMS+FOR+TOMORROW" alt="Animated master header" />
 </p>
