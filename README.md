@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jayanth D R
+# 👋 Hi
 
 <!-- =========================================
    CYBERPUNK GITHUB PROFILE README
@@ -39,31 +39,6 @@
 
 </div>
 
----
-
-# ⚡ About Me
-
-```yaml
-Name: Jayanth D R
-Role: Full Stack Java Developer
-Education: Computer Science Engineering
-Location: Karnataka, India
-
-Current Focus:
-  - AI/ML
-  - Spring Boot
-  - React
-  - System Design
-
-Current Project:
-  - CardioSense.AI
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3200&pause=800&color=06B6D4&center=true&vCenter=true&width=800&lines=JAVA+BACKEND+ENGINEER;SPRING+BOOT+%26+MICROSERVICES;CLOUD+AWS+%7C+DOCKER+%7C+CI%2FCD;AI-ENABLED+APIs+%26+RAG+SYSTEMS;BUILDING+SCALABLE+SYSTEMS+FOR+TOMORROW" alt="Animated master header" />
-</p>
-
-💻 **Java Backend Developer**  
-☁️ Cloud & Microservices Enthusiast  
-🤖 Exploring AI-powered backend systems  
 
 ---
 
