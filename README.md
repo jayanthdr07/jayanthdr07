@@ -7,8 +7,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:8A2BE2&height=250&section=header&text=Jayanth%20D%20R&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=55&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=100&lines=Jayanth+D+R;Full+Stack+Java+Developer;AI%2FML+Enthusiast" />
+</h1>
 # Full-Stack Java Developer | AI/ML Enthusiast | CSE Student
 
 <br>
