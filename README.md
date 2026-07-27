@@ -1,7 +1,4 @@
-<!-- =========================================
-   CYBERPUNK GITHUB PROFILE README
-   JAYANTH D R
-========================================= -->
+
 
 <div align="center">
 
